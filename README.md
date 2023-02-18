@@ -1,11 +1,11 @@
 # FNFezbot
 A simple bot for Friday night Funking
 
-#Description
+# Description
 This script uses comparitive image recognition to input commands into the game, although this script is slow it can still get 100% on hardest difficulty with an 
 error rate of about 5%
 
-#HOW TO USE
+# HOW TO USE
 
 This bot requires that FNF to be fullscreen and only work with web browser version
 
